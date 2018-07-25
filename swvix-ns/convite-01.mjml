@@ -1,0 +1,92 @@
+<mjml>
+  <mj-body background-color="#d6dde5">
+    <mj-section padding-bottom="20px">
+      <mj-column width="90.66666666666666%" vertical-align="middle">
+        <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="11px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px">SWVix Negócios Sustentáveis: Não perca a oportunidade de fazer a diferença!</span></mj-text>
+      </mj-column>
+      <!--<mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-text align="right" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="11px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0"><span style="font-size: 11px"><a href="https://mjml.io" style="text-decoration: none; color: inherit;">[[PERMALINK_LABEL]]</a></span></mj-text>
+      </mj-column>-->
+    </mj-section>
+    
+    <mj-section padding-top="0" background-color="#ffffff">
+      <mj-column width="100%" vertical-align="top">
+        <mj-image href="https://www.sympla.com.br/startup-weekend-vitoria-negocios-sustentaveis__285348?utm_source=newsletter&utm_medium=email&utm_campaign=grps" src="https://i.imgur.com/p2IW6YD.png" alt="Amario logo" align="center" border="none" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    
+    <mj-section background-color="#ffffff">
+      <mj-column width="100%" vertical-align="top">
+        <mj-image href="https://www.sympla.com.br/startup-weekend-vitoria-negocios-sustentaveis__285348?utm_source=newsletter&utm_medium=email&utm_campaign=grps" src="https://i.imgur.com/ePrQ98I.png" alt="Amario logo" align="center" border="none" padding-left="0px" padding-right="0px" padding-bottom="0px" padding-top="0"></mj-image>
+      </mj-column>
+    </mj-section>
+    
+    
+    <mj-section background-color="#ffffff" background-url="https://i.imgur.com/yowN2Re.png" padding-bottom="27px" padding-top="0">
+      <mj-column width="100%" vertical-align="top">
+        <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p><span style="font-weight: bold;"><span style="color: rgb(255, 255, 255);"><span style="font-size: 16px;"><br></span></span>
+            </span>
+          </p>
+          <p><span style="font-size: 27px;"><a href="https://mjml.io" style="text-decoration: none; color: inherit;"><span style="font-weight: bold;"><span style="color: rgb(255, 255, 255); text-shadow: -3px 0 #31D07D, 0 3px #31D07D, 3px 0 #31D07D, 0 -3px #31D07D;">CAMALEÃO</span></span>
+            </a>
+            </span>
+          </p>
+          <p><span style="font-weight: bold;"><span style="color: rgb(255, 255, 255);"><span style="font-size: 27px; text-shadow: -3px 0 #31D07D, 0 3px #31D07D, 3px 0 #31D07D, 0 -3px #31D07D;">NÚCLEO DE NEGÓCIOS SUSTENTÁVEIS</span></span>
+            </span>
+          </p>
+          <p><span style="font-weight: bold;"><span style="color: rgb(255, 255, 255); text-shadow: -3px 0 #31D07D, 0 3px #31D07D, 3px 0 #31D07D, 0 -3px #31D07D;"><span style="font-size: 27px;">Av. Saturnino Rangel Mauro, 365</span></span>
+            </span>
+          </p>
+          <p><span style="font-weight: bold;"><span style="color: rgb(255, 255, 255); text-shadow: -3px 0 #31D07D, 0 3px #31D07D, 3px 0 #31D07D, 0 -3px #31D07D;"><span style="font-size: 27px;">Jardim da Penha, Vitória</span></span>
+            </span>
+          </p>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" padding-bottom="20px" padding-top="20">
+      <mj-column width="80%" vertical-align="top">
+        <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="14px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p><span style="color: #31D07D;"><span style="font-weight: bold;"><span style="font-size: 20px;">O QUE É O STARTUP WEEKEND?</span></span>
+            </span>
+          </p>
+        </mj-text>
+        <mj-text align="justify" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="14px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <p>O Startup Weekend é um evento de <strong>imersão</strong>, uma experiência única onde <strong>empreendedores e aspirantes a empreendedores</strong> podem descobrir se suas ideias de startups são viáveis. Venha <strong>compartilhar ideias</strong>, <strong>formar equipes</strong> e <strong>lançar startups</strong>.</p>
+          <p>
+          	Todos os eventos do Startup Weekend seguem o mesmo modelo básico: <strong>qualquer pessoa é bem vinda</strong> para expor a sua ideia de startup e receber feedback de outros participantes. São formadas equipes em torno das melhores ideias (determinadas por votação) e a partir daí são <strong>54 horas de criação</strong> de modelos de negócios, programação, design e validação de mercado. O fim de semana termina com a <strong>apresentação dos projetos a empreendedores de sucesso</strong> em uma nova oportunidade para receber feedback.
+          </p>
+        </mj-text>
+        <mj-button background-color="#31D07D" color="#FFFFFF" font-size="18px" align="center" vertical-align="middle" border="none" padding="15px 30px" border-radius="3px" href="https://www.sympla.com.br/startup-weekend-vitoria-negocios-sustentaveis__285348?utm_source=newsletter&utm_medium=email&utm_campaign=grps" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10"><strong>GARANTIR MINHA INSCRIÇÃO </br>COM 20% DE DESCONTO!</strong></mj-button>
+      </mj-column>
+      <mj-column width="25%" vertical-align="top"></mj-column>
+    </mj-section>
+
+    <mj-section background-color="#31D07D" padding-bottom="0px" padding-top="0">
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <!--<mj-image href="https://mjml.io" src="http://191n.mj.am/img/191n/3s/x0p.png" alt="Amario logo" align="center" border="none" width="77px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10"></mj-image>-->
+      </mj-column>
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="13px" padding-left="25px" padding-right="25px" padding-bottom="10px" padding-top="10">
+          <!--<p><a href="https://mjml.io" style="text-decoration: none; color: inherit;"><span style="color: rgb(255, 255, 255);">Privacy policy</span></a></p>-->
+        </mj-text>
+      </mj-column>
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-social padding-top="20px">
+          <mj-social-element name="facebook" href="https://www.facebook.com/pg/SWVix/about/?ref=email"> </mj-social-element>
+          <!--<mj-social-element name="twitter" href="[[SHORT_PERMALINK]]"> </mj-social-element>
+          <mj-social-element name="google" href="[[SHORT_PERMALINK]]"> </mj-social-element>-->
+        </mj-social>
+      </mj-column>
+    </mj-section>
+    <mj-section padding-bottom="20px" padding-top="20">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="11px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+          <!--<p style="font-size:11px">[[QUEM_ESTA_ENVIANDO_E_PORQUE]]</p>
+        </mj-text>-->
+        <mj-text align="center" color="#000000" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" font-size="11px" padding-left="25px" padding-right="25px" padding-bottom="0px" padding-top="0">
+        </mj-text>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
